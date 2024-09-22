@@ -18,10 +18,12 @@ def classify_triangle(a, b, c):
             else:
                 if a != b and b != c and a != c:
                     if a**2 + b**2 == c**2:
-                            return "Right Triangle"
+                            return "Scalene Right Triangle"
                     return "Scalene Triangle"
                 else:
                     if a == b or b == c or a == c:
+                        if a**2 + b**2 == c**2:
+                            return "Isosceles Right Triangle"
                         return "Isosceles Triangle"
         else: 
             return "Please input positive integer value for Triangle Sides."
