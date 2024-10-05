@@ -34,6 +34,12 @@ Next you should upload and commit both of these files, Triangle.py and TestTrian
 ----------------------------------------------------------------------------------
 # **Assignment Summary:**
 
+**Author**: Romeo Parreott
+
+**Reflection:**  Something I think I learned while completing this is the value of having thorough test cases. For example, the first set of test cases I built for HW01 did not account for the fact that a user may input 5,3,4 for a triangle and "a^2 + b^2 == c^2" isnt going to catch correctly. 
+
+**Honor Pledge:** I pledge my honor that I have abided by the Stevens Honor System.
+
 ### Initial Run
 |Test ID|Input|Expected Results|Actual Result|Pass or Fail|
 |---|---|---|---|---|
