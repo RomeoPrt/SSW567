@@ -30,8 +30,19 @@ Submit a report with the following information :
 **Reflection:** I found this assignment interesting, especially because I wasn't sure what the criteria was going to be for "good" or "bad" code for the static analysis. One criteria that said whitespace was bad. I tend to prefer that whitespace when looking at code because it helps separate different blocks of code more clearly. 
 
 **Honor Pledge:** I pledge my honor that I have abided by the Stevens Honor System.
+
+**1st Static Code Analysis:** 
 ![alt text](https://github.com/RomeoPrt/SSW567/edit/main/HW05/FirstCoverageTest.png?raw=true)
+
+The first analysis was poor (2.5/10), mostly because of the whitespace in the script and few logic warnings with the if/elif statements.
+**Last Static Code Analysis:** 
 ![alt text](https://github.com/RomeoPrt/SSW567/edit/main/HW05/FirstStaticCodeReview.png?raw=true)
+
+By the last Analysis I reach 10/10
+
+**1st Coverage Test:** 
 ![alt text](https://github.com/RomeoPrt/SSW567/edit/main/HW05/LastStaticCodeReview.png?raw=true)
+
+Fortunately, my test coverage was thorough enough from the previous assignment that I didn't need to make any edits or add any other test. 
 
 
