@@ -41,7 +41,7 @@ The first analysis was poor (2.5/10), mostly because of the whitespace in the sc
 By the last Analysis I reach 10/10
 
 **1st Coverage Test:** 
-![alt text](https://github.com/RomeoPrt/SSW567/edit/main/HW05/LastStaticCodeReview.png?raw=true)
+![alt text](https://github.com/RomeoPrt/SSW567/main/HW05/LastStaticCodeReview.png?raw=true)
 
 Fortunately, my test coverage was thorough enough from the previous assignment that I didn't need to make any edits or add any other test. 
 
