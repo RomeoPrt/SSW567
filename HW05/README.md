@@ -36,7 +36,8 @@ Submit a report with the following information :
 
 The first analysis was poor (2.5/10), mostly because of the whitespace in the script and few logic warnings with the if/elif statements.
 **Last Static Code Analysis:** 
-![alt text](https://github.com/RomeoPrt/SSW567/edit/main/HW05/FirstStaticCodeReview.png?raw=true)
+![alt text](https://github.com/RomeoPrt/SSW567/tree/main/HW05/FirstStaticCodeReview.png?raw=true)
+
 
 By the last Analysis I reach 10/10
 
